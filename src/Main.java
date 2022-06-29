@@ -78,8 +78,5 @@ public class Main {
         //char[] reverseFullName = { 'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
         //В результате в консоль должно быть выведено "Ivanov Ivan"
 
-
-
-
     }
 }
