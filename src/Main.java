@@ -1,5 +1,3 @@
-import java.util.stream.IntStream;
-
 public class Main {
     public static int[] generateRandomArray() {
         java.util.Random random = new java.util.Random();
@@ -77,6 +75,5 @@ public class Main {
         // В качестве данных для массива используйте:
         //char[] reverseFullName = { 'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
         //В результате в консоль должно быть выведено "Ivanov Ivan"
-
     }
 }
